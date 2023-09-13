@@ -3,7 +3,7 @@
 Python program to extract engineering drawings from a group of images and extract all the tabular data into a single Excel spreadsheet.
 
 ### Sample input
-Sample input image containing tabular data and an engineering drawing (all input images can be found in the input-dataset folder)
+Sample input image containing tabular data and an engineering drawing (all input images can be found in the input-dataset folder):
 ![Alt Text](https://github.com/mintchococookies/image-and-text-extraction/raw/main/input-dataset/20.png)
 
 ### Process
